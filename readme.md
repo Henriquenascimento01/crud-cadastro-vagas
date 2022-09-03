@@ -1,0 +1,1 @@
+CRUD representando um cadastro de vagas de emprego utilizando composer e PHP orientado a objetos

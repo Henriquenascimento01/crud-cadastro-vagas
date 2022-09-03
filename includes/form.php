@@ -8,7 +8,7 @@
 
     <h2 class="mt-3">Cadastrar vaga</h2>
 
-    <form action="register.php" method="POST">
+    <form action="index.php" method="POST">
         <div class="form-group">
             <label>Título</label>
             <input type="text" class="form-control" name="titulo">
@@ -30,8 +30,7 @@
 
                 <div class="form-check form-check-inline">
                     <label class="form-control">
-                        <input type="radio" name="ativo" value="n"> Inativo
-                    </label>
+                        <input type="radio" name="ativo" value="n">Inativo
                 </div>
             </div>
         </div>
