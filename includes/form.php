@@ -15,12 +15,12 @@
         </div>
 
         <div class="form-group">
-            <label>Descrição</label>
+            <label class="mt-3">Descrição</label>
             <textarea class="form-control" name="descricao" rows="5"></textarea>
         </div>
 
         <div class="form-group">
-            <label>Status</label>
+            <label class="mt-3">Status</label>
             <div>
                 <div class="form-check form-check-inline">
                     <label class="form-control">

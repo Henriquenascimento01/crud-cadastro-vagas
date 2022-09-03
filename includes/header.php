@@ -10,9 +10,9 @@
 
 <body class="text-light bg-dark">
 
-    <div class="container">
+    <div class="container text-center">
 
-        <div class="jumbotron bg-danger">
+        <div class="jumbotron bg-danger text-center">
             <h1>Vagas</h1>
             <p>Crud com composer e PHP orientado a objetos</p>
         </div>
