@@ -9,7 +9,6 @@
 </head>
 
 <body class="text-light bg-dark">
-
     <div class="container text-center">
 
         <div class="jumbotron bg-danger text-center">
