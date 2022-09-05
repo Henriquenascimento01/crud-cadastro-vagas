@@ -7,7 +7,7 @@
 
     <h2 class="mt-3">Cadastrar vaga</h2>
 
-    <form action="index.php" method="POST">
+    <form action="register.php" method="POST">
         <div class="form-group">
             <label>Título</label>
             <input type="text" class="form-control" name="titulo">

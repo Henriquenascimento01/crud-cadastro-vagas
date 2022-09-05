@@ -13,8 +13,8 @@ class Database
     const USER = 'root';
     const PASSWORD = '';
 
-    public $table;
-    public $connetion;
+    private $table;
+    private $connection;
 
     public function __construct($table = null)
     {
